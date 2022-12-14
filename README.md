@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @VODKAexe
-- 👀 I’m interested in biology, informatics and karaate
-- 🌱 I’m currently learning python at Liceo Rinaldo Corso (Correggio, Italy)
+- 👋 @VODKAexe (16 y.o.)
+- 👀 Interested in biology, informatics and karate
+- 🌱 Currently learning python at Liceo Rinaldo Corso (Correggio, Italy)
