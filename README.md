@@ -1,3 +1,3 @@
-- 👋 @VODKAexe (16 y.o.)
+- 👋 @VODKAexe (18 y.o.)
 - 👀 Interested in biology, informatics and karate
 - 🌱 Currently learning python at Liceo Rinaldo Corso (Correggio, Italy)
